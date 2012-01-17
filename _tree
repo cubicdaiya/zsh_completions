@@ -39,7 +39,7 @@ _tree () {
 	'--noreport[Turn off file/directory count at end of tree listing.]' \
 	'--nolinks[Turn off hyperlinks in HTML output.]' \
 	'--dirsfirst[List directories before files.]' \
-	'-charset[Use charset X for HTML and indentation line output.]' \
+	'--charset[Use charset X for HTML and indentation line output.]' \
 	'--filelimit[Do not descend dirs with more than # files in them.]'
 }
 
