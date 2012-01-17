@@ -1,0 +1,1 @@
+command completions for zsh
